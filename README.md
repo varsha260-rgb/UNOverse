@@ -44,9 +44,27 @@ Home
 ---
 
 ## 👥 User Roles
-- Student (Learns + Simulates + Practices)
-- Teacher (Guides + Assigns Challenges)
-- Individual Learner
+
+### 🎓 Student
+- Access learning modules
+- Simulate Arduino circuits
+- Practice concepts through activities
+- Complete daily challenges
+- Track learning progress
+
+### 👨‍🏫 Teacher
+- Access learning modules
+- Simulate and validate circuits
+- Create and assign challenges
+- Monitor student progress
+- Guide and support learners
+
+### 👤 Individual Learner
+- Learn Arduino concepts independently
+- Simulate circuits virtually
+- Practice through challenges
+- Follow personalized learning roadmaps
+- Track personal progress
 
 ---
 
@@ -78,10 +96,13 @@ Home
 ![Daily Challenge](daily_challenge.png)
 
 ### 📊 Dashboards
-*(Add your dashboard screenshots here if needed)*
+![Student's Dashboard](student_dashboard.png)
+![Teacher's Dashboard](teacher_dashboard.png)
+![Individual's Dashboard](individual_dashboard.png)
 
 ### 👤 Profiles
-*(Add profile screenshots here if needed)*
+![Profile Student](profile_student.png)
+![Profile Teacher](profile_teacher.png)
 
 ---
 
@@ -109,7 +130,7 @@ Home
 ---
 
 ## 🔗 Prototype
-(Add your Figma prototype link here)
+https://www.figma.com/proto/aighQ4mfCNB8xig9sjtdnv/UNOverse?node-id=340-675&starting-point-node-id=340%3A675&t=fZyFBQyzX7dDpKpr-1
 
 ---
 
